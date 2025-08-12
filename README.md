@@ -2,35 +2,7 @@
 
 ## Descripción del Proyecto
 
-Este proyecto presenta una implementación completa y educativa del tema de **Estructuras de Datos No Lineales** con enfoque específico en **Programación Dinámica**. El proyecto incluye una presentación profesional y una implementación práctica del problema de la mochila, diseñado para estudiantes y profesionales que deseen comprender a fondo estos conceptos fundamentales de la ciencia de la computación.
-
-## Contenido del Proyecto
-
-### 📊 Presentación Académica
-
-El proyecto incluye una presentación profesional de 12 diapositivas que cubre:
-
-1. **Introducción a la Programación Dinámica**
-   - Conceptos fundamentales y definiciones
-   - Historia y desarrollo de la técnica
-   - Principios básicos de funcionamiento
-
-2. **Características de la Programación Dinámica**
-   - Subestructura óptima
-   - Subproblemas superpuestos
-   - Memorización (memoization)
-   - Enfoque ascendente vs descendente
-
-3. **Aplicaciones y Casos de Uso**
-   - Teoría de grafos
-   - Bioinformática
-   - Procesamiento de texto
-   - Optimización de recursos
-
-4. **Problemas Clásicos Implementados**
-   - Subsecuencia Común más Larga (LCS)
-   - Distancia de Edición (Levenshtein)
-   - Problema de la Mochila (Knapsack)
+Este proyecto presenta una implementación completa y educativa del tema de **Estructuras de Datos No Lineales** con enfoque específico en **Programación Dinámica**. Una implementación práctica del problema de la mochila.
 
 ### 💻 Implementación en Código
 
@@ -55,13 +27,9 @@ El proyecto incluye una implementación completa en Python del **Problema de la 
 - `sys` - Para funciones del sistema
 - `os` - Para operaciones del sistema operativo
 
-## Instalación y Configuración
-
-
-
 ## Ejemplos de Uso
 
-### Ejemplo Básico: Usar la Función de Mochila 0/1
+### Ejemplo: Usar la Función de Mochila 0/1
 
 ```python
 from mochila import mochila_01
@@ -77,7 +45,6 @@ valor_maximo, objetos_seleccionados = mochila_01(capacidad, pesos, valores)
 print(f"Valor máximo: {valor_maximo}")
 print(f"Objetos seleccionados: {objetos_seleccionados}")
 ```
-
 
 
 ## Documentación Técnica
