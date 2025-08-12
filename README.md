@@ -4,17 +4,6 @@
 
 Este proyecto presenta una implementación completa y educativa del tema de **Estructuras de Datos No Lineales** con enfoque específico en **Programación Dinámica**. Una implementación práctica del problema de la mochila.
 
-###  Implementación en Código
-
-El proyecto incluye una implementación completa en Python del **Problema de la Mochila** con:
-
-- Algoritmo para mochila 0/1 (cada objeto una vez)
-- Algoritmo para mochila ilimitada (objetos múltiples veces)
-- Reconstrucción de la solución óptima
-- Análisis de complejidad temporal y espacial
-- Ejemplos prácticos y casos de prueba
-- Suite completa de pruebas unitarias
-
 
 ### Requisitos Mínimos
 
