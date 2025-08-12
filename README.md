@@ -4,7 +4,7 @@
 
 Este proyecto presenta una implementación completa y educativa del tema de **Estructuras de Datos No Lineales** con enfoque específico en **Programación Dinámica**. Una implementación práctica del problema de la mochila.
 
-### 💻 Implementación en Código
+###  Implementación en Código
 
 El proyecto incluye una implementación completa en Python del **Problema de la Mochila** con:
 
@@ -90,9 +90,6 @@ Donde:
 
 ## Conclusión
 
-Este proyecto representa una implementación completa y educativa de conceptos fundamentales en estructuras de datos no lineales, específicamente enfocado en programación dinámica. A través de la combinación de material teórico presentado de manera visual y implementación práctica con código bien documentado, los estudiantes pueden desarrollar una comprensión profunda de estos conceptos esenciales en ciencias de la computación.
+La implementación del problema de la mochila sirve como un ejemplo paradigmático de cómo la programación dinámica puede resolver eficientemente problemas de optimización que serían intratables con enfoques de fuerza bruta. 
 
-La implementación del problema de la mochila sirve como un ejemplo paradigmático de cómo la programación dinámica puede resolver eficientemente problemas de optimización que serían intratables con enfoques de fuerza bruta. El código incluido no solo resuelve el problema, sino que también demuestra mejores prácticas en programación, documentación y pruebas.
-
-Esperamos que este material sea útil tanto para estudiantes que están aprendiendo estos conceptos por primera vez como para instructores que buscan recursos de calidad para enseñar programación dinámica de manera efectiva y práctica.
 
